@@ -2,3 +2,6 @@
 require_relative "../lib/greeting.rb"
 
 # code your CLI here!
+puts "Speak the password..."
+puts "Go on..."
+password = gets.strip
